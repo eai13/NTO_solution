@@ -1,0 +1,42 @@
+{
+  "users": {
+    "ivanov egor": {
+      "Address": "Lenina 22, 64",
+      "Name": "Egor Ivanov",
+      "Card ID": 1370283327578240,
+      "Balance": 324,
+      "History": {
+        "Mon, 04 Apr 2022 14:37:00 GMT": "222 bonuses written off (Communal)",
+        "Mon, 04 Apr 2022 14:37:13 GMT": "11 bonuses written off (Internet)",
+        "Mon, 04 Apr 2022 17:29:11 GMT": "111 Bonuses Added by Administrator",
+        "Mon, 04 Apr 2022 17:38:05 GMT": "22 Bonuses Written Off by Administrator",
+        "Mon, 04 Apr 2022 17:38:30 GMT": "11 bonuses written off (Communal)",
+        "Mon, 04 Apr 2022 17:38:33 GMT": "22 bonuses written off (Internet)",
+        "Mon, 04 Apr 2022 17:38:37 GMT": "33 bonuses written off (Bus Card)",
+        "Tue, 05 Apr 2022 12:22:06 GMT": "10 Bonuses Acquired"
+      }
+    },
+    "petrov ivan": {
+      "Address": "Lenina 30, 128",
+      "Name": "Ivan Petrov",
+      "Card ID": 1389490421325952,
+      "Balance": 838,
+      "History": {
+        "Tue, 05 Apr 2022 12:23:27 GMT": "10 Bonuses Acquired"
+      }
+    },
+    "egorov alex": {
+      "Address": "Lenina 23, 256",
+      "Name": "Alex Egorov",
+      "Card ID": 1234567890123458,
+      "Balance": 646,
+      "History": {}
+    }
+  },
+  "admins": {
+    "admin admin": {
+      "Name": "Admin"
+    }
+  },
+  "techs": [1341339542970496, 123123123123123]
+}

@@ -1,0 +1,52 @@
+{
+  "ID": 12,
+  "Address": "Lenina 23",
+  "History": {
+    "Tue, 05 Apr 2022 12:22:06 GMT": "Egor Ivanov obtained 10 Bonuses",
+    "Tue, 05 Apr 2022 12:28:29 GMT": "New Report Added",
+    "Tue, 05 Apr 2022 12:28:31 GMT": "New Report Added",
+    "Tue, 05 Apr 2022 12:49:45 GMT": "New Report Added",
+    "Tue, 05 Apr 2022 12:49:47 GMT": "New Report Added"
+  },
+  "Reports": {
+    "Tue, 05 Apr 2022 12:49:45 GMT": {
+      "Servo": [
+        1,
+        1,
+        1
+      ],
+      "RGB": [
+        0,
+        0,
+        0
+      ],
+      "Level": [
+        1,
+        0,
+        1
+      ]
+    },
+    "Tue, 05 Apr 2022 12:49:47 GMT": {
+      "Servo": [
+        1,
+        1,
+        1
+      ],
+      "RGB": [
+        0,
+        0,
+        0
+      ],
+      "Level": [
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  "Fill": {
+    "1": 0,
+    "2": 0,
+    "3": 0
+  }
+}
