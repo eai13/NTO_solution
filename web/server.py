@@ -428,9 +428,9 @@ class NeuralHTTP(http.server.BaseHTTPRequestHandler):
                         form_data += '<td>Servo</td><td>Color</td><td>Level</td>'
                     form_data += '</tr>'
                     for iter in [1, 2, 3]:
-                        form_data += '<td>' + str(cont_data['Reports'][reports]['Servo'][iter - 1][0]) + '</td>'
-                        form_data += '<td>' + str(cont_data['Reports'][reports]['RGB'][iter - 1][0]) + '</td>'
-                        form_data += '<td>' + str(cont_data['Reports'][reports]['Level'][iter - 1][0]) + '</td>'
+                        form_data += '<td>' + str(cont_data['Reports'][reports]['Servo'][iter - 1]) + '</td>'
+                        form_data += '<td>' + str(cont_data['Reports'][reports]['RGB'][iter - 1]) + '</td>'
+                        form_data += '<td>' + str(cont_data['Reports'][reports]['Level'][iter - 1]) + '</td>'
                     form_data += '</tr>'
                     form_data += '</table><br>'
                 
